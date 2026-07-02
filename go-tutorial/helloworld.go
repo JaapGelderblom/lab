@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("something else")
 	fmt.Println(c, d)
 
-	fmt.Printf("The type of c is: %T and the value is: %v", c, c)
+	fmt.Printf("The type of c is: %T and the value is: %v\n", c, c)
 
 	var i = 15
 
